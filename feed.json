@@ -1,24 +1,42 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Paul Grave",
+	"title": "Paul Grave’s blog",
 	"icon": "https://micro.blog/paulgrav/avatar.jpg",
 	"home_page_url": "https://grav.social/",
 	"feed_url": "https://grav.social/feed.json",
 	"items": [
 		
 			{
+				"id": "http://paulgrav.micro.blog/2024/04/15/curve-stopped-working.html",
+				"title": "Curve stopped working",
+				"content_html": "<p>I <a href=\"https://grav.social/2024/04/07/setting-up-garmin.html\">previously mentioned</a> how to setup Garmin Pay with any UK bank card using Curve.</p>\n<p>I setup both a debit card and my credit card with Curve and about a week ago Curve started blocking all transactions. The other issue is that I can’t add Curve to anymore of my Apple Pay—supporting devices either.</p>\n<p>Looking at the recents reviews in the App Store, I’m not the only one who has experienced this problem.</p>\n<p>In addition to the card not functioning as a card, the support is non-existant.</p>\n<p>I paid £6 for a week of using Curve. I’m kinda glad that’s the extent of my loss.</p>\n<p>On the basis of the lack of support, I would recommend no one use Curve. Stay away.</p>\n",
+				"content_text": "I [previously mentioned](https://grav.social/2024/04/07/setting-up-garmin.html) how to setup Garmin Pay with any UK bank card using Curve. \r\n\r\nI setup both a debit card and my credit card with Curve and about a week ago Curve started blocking all transactions. The other issue is that I can’t add Curve to anymore of my Apple Pay—supporting devices either.\r\n\r\nLooking at the recents reviews in the App Store, I’m not the only one who has experienced this problem.\r\n\r\nIn addition to the card not functioning as a card, the support is non-existant. \r\n\r\nI paid £6 for a week of using Curve. I’m kinda glad that’s the extent of my loss.\r\n\r\nOn the basis of the lack of support, I would recommend no one use Curve. Stay away.\n",
+				"date_published": "2024-04-15T08:41:27+01:00",
+				"url": "https://grav.social/2024/04/15/curve-stopped-working.html",
+				"tags": ["technology"]
+			},
+			{
+				"id": "http://paulgrav.micro.blog/2024/04/07/setting-up-garmin.html",
+				"title": "Setting up Garmin Pay with any UK bank or credit card",
+				"content_html": "<p>Garmin Pay, unlike Apple Pay, is not widely supported in the UK. <a href=\"https://support.apple.com/en-ca/109516\">Apple Pay in the UK</a> is supported by over 150 financial institutions. Garmin Pay is <a href=\"https://www.garmin.com/en-GB/garminpay/banks/\">supported by 12</a>. Apple Pay is one of my favourite features on Apple Watch.</p>\n<p>I wanted to make the switch to my new <a href=\"https://www.garmin.com/en-GB/p/894067/pn/010-02803-11\">Garmin Epix Gen2 Pro</a> as smooth as possible and I was worried that I was going to miss out on the ability to pay for goods with my watch.</p>\n<p>There’s a way around Garmin Pay’s poor support. <a href=\"https://www.curve.com/en-gb/\">Curve</a>. Curve is a service that acts as a proxy for your various credit and debit cards. You add your cards to Curve. Add Curve to your Garmin watch. Then pay for goods with your Garmin Watch. Curve then works out which card to use.</p>\n<p>Setting up Curve was simple with their iOS app. You have an account set up in about 5mins and then all that’s left to do is to add Curve to Garmin Pay.</p>\n<p>Paying with an Apple Watch is a case of double-clicking the side button. It’s a shame that Garmin’s default isn’t as slick.    You have to hold the light button, enter the controls menu, and press up/down multiple times to find the wallet icon. Garmin lists 7 separate steps in the Epix manual. There is an easier way. I configured a Hot Key so that a long press on START opens Garmin Pay. That’s one step instead of 7.</p>\n<p>Curve has a couple of interesting features that I want to explore further. The first one is Smart Rules. You can configure one or two rules (you have to pay for more) to determine which cards will be used for payment. The second is Anti-Embarrassment Mode, where you can use a backup card if your Monzo account is empty.</p>\n<p>Over the past week I’ve been using Garmin Pay with the Garmin Epix and the experience has been on a par with Apple Pay, which is all I would have wanted.</p>\n",
+				"content_text": "Garmin Pay, unlike Apple Pay, is not widely supported in the UK. [Apple Pay in the UK](https://support.apple.com/en-ca/109516) is supported by over 150 financial institutions. Garmin Pay is [supported by 12](https://www.garmin.com/en-GB/garminpay/banks/). Apple Pay is one of my favourite features on Apple Watch.\r\n\r\nI wanted to make the switch to my new [Garmin Epix Gen2 Pro](https://www.garmin.com/en-GB/p/894067/pn/010-02803-11) as smooth as possible and I was worried that I was going to miss out on the ability to pay for goods with my watch.\r\n\r\nThere’s a way around Garmin Pay’s poor support. [Curve](https://www.curve.com/en-gb/). Curve is a service that acts as a proxy for your various credit and debit cards. You add your cards to Curve. Add Curve to your Garmin watch. Then pay for goods with your Garmin Watch. Curve then works out which card to use.\r\n\r\nSetting up Curve was simple with their iOS app. You have an account set up in about 5mins and then all that’s left to do is to add Curve to Garmin Pay.\r\n\r\nPaying with an Apple Watch is a case of double-clicking the side button. It’s a shame that Garmin’s default isn’t as slick.    You have to hold the light button, enter the controls menu, and press up/down multiple times to find the wallet icon. Garmin lists 7 separate steps in the Epix manual. There is an easier way. I configured a Hot Key so that a long press on START opens Garmin Pay. That’s one step instead of 7.\r\n\r\nCurve has a couple of interesting features that I want to explore further. The first one is Smart Rules. You can configure one or two rules (you have to pay for more) to determine which cards will be used for payment. The second is Anti-Embarrassment Mode, where you can use a backup card if your Monzo account is empty.\r\n\r\nOver the past week I’ve been using Garmin Pay with the Garmin Epix and the experience has been on a par with Apple Pay, which is all I would have wanted.\r\n",
+				"date_published": "2024-04-07T14:34:30+01:00",
+				"url": "https://grav.social/2024/04/07/setting-up-garmin.html"
+			},
+			{
 				"id": "http://paulgrav.micro.blog/2024/03/29/castletown-harbour-near.html",
 				
-				"content_html": "<p>Castletown Harbour near Dunnet Beach</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Castletown Harbour near Dunnet Beach\n\n<img src=\"uploads/2024/18a65d8fe1ea46a28567835c8bd6b991.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Castletown Harbour near Dunnet Beach</p>\n<img src=\"/cdn-cgi/image/quality=75,width=600,height=450/uploads/2024/18a65d8fe1ea46a28567835c8bd6b991.jpg\" width=\"600\" height=\"450\" alt=\"Boat with Scottish beach in the background\" loading=\"lazy\">\n",
+				"content_text": "Castletown Harbour near Dunnet Beach\n\n<img src=\"/cdn-cgi/image/quality=75,width=600,height=450/uploads/2024/18a65d8fe1ea46a28567835c8bd6b991.jpg\" width=\"600\" height=\"450\" alt=\"Boat with Scottish beach in the background\" loading=\"lazy\">\n",
 				"date_published": "2024-03-29T14:55:22+01:00",
-				"url": "https://grav.social/2024/03/29/castletown-harbour-near.html"
+				"url": "https://grav.social/2024/03/29/castletown-harbour-near.html",
+				"tags": ["travel"]
 			},
 			{
 				"id": "http://paulgrav.micro.blog/2024/03/27/perito-moreno-glaciar.html",
 				"title": "Missing Patagonia",
-				"content_html": "<p>One of my favourite places in the world. Remote and beautiful.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of my favourite places in the world. Remote and beautiful.\n\n\n<img src=\"uploads/2024/16672c040d8949579faf679e6fc9a29a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>One of my favourite places in the world. Remote and beautiful.</p>\n<img src=\"/cdn-cgi/image/quality=75,width=600,height=450/uploads/2024/16672c040d8949579faf679e6fc9a29a.jpg\" width=\"600\" height=\"450\" alt=\"Photo of a glaciar\" loading=\"lazy\">\n",
+				"content_text": "One of my favourite places in the world. Remote and beautiful.\n\n\n<img src=\"/cdn-cgi/image/quality=75,width=600,height=450/uploads/2024/16672c040d8949579faf679e6fc9a29a.jpg\" width=\"600\" height=\"450\" alt=\"Photo of a glaciar\" loading=\"lazy\">\n",
 				"date_published": "2024-03-27T12:20:52+01:00",
 				"url": "https://grav.social/2024/03/27/perito-moreno-glaciar.html",
 				"tags": ["travel"]
@@ -26,8 +44,8 @@
 			{
 				"id": "http://paulgrav.micro.blog/2024/03/19/ios-apps-for.html",
 				"title": "Travelling in Argentina Pt. 3 — Hiking in Patagonia",
-				"content_html": "<p>Whilst in El Chalten and Bariloche I knew we wanted to do hikes. Over the 4 days of hiking, I used a combination of apps to help us enjoy our hikes. I’ve listed the 3 below and described what I liked about each of them.</p>\n<p>My requirements were:</p>\n<ul>\n<li>Trail discovery. I wanted to find the best trails and maximise our time.</li>\n<li>Downloadable maps. I wasn’t sure I’d have any network coverage</li>\n<li>Works on both iPadOS and iOS. I wasn’t going to take my laptop with me. Planning on the iPad is easier than on the phone.</li>\n</ul>\n<p>My requirements didn’t include navigation or recording since my Garmin Instinct series 2 would cover this.</p>\n<h2 id=\"gaia-gps\">Gaia GPS</h2>\n<p><a href=\"https://apps.apple.com/app/id1201979492\">App Store link</a></p>\n<!-- raw HTML omitted -->\n<p>Gaia has the prettiest maps out of the three apps I tried. I downloaded maps for El Chalten, El Calafate, and Bariloche. Whilst the UI for downloading was clunky, it worked. Gaia offered an iPadOS version and a web version for its maps.</p>\n<p>I found Gaia easy to use and reliable during hikes. It was easy to figure out which turns to take, and how much of our hike was left.</p>\n<p>I ended up paying £51.90 for 12 months of access to their mapping.</p>\n<h2 id=\"all-trails\">All Trails</h2>\n<p><a href=\"https://apps.apple.com/app/id405075943\">App Store link</a></p>\n<!-- raw HTML omitted -->\n<p>Whilst Gaia had beautiful maps, All Trails helped us decide where we wanted to go. They have lots of trail reviews and pictures.</p>\n<p>Unfortunately, All Trails doesn’t offer an iPadOS version and for that reason chose Gaia GPS over All Trails for downloading maps.</p>\n<p>All Trails is an App Store Award-winning app, winner of the iPhone App of the Year. I can see why, the app has a great UX.</p>\n<h2 id=\"garmin-explore\">Garmin Explore</h2>\n<p><a href=\"https://apps.apple.com/app/id1276675721\">App Store Link</a></p>\n<!-- raw HTML omitted -->\n<p>I wish I had discovered this app before our vacation. The maps themselves don’t look as good as either All Trails or Gaia, but the necessary detail is there. And it’s <strong>free</strong>.</p>\n<p>Its killer feature is the tight integration with my Garmin Instinct. During an active hike activity on the watch, I could open Garmin Explore, find a destination on a trail, Garmin Explore would create the course, sync it to the watch and start navigating. Seamlessly. Then I could see ETA, estimated time remaining, and ascent remaining on my watch without having to take my phone out of my pocket. It worked great.</p>\n<p>Garmin Explore has an iOS and iPadOS version. It’s available on the web via <a href=\"http://explore.garmin.com\">explore.garmin.com</a> The maps are downloadable by region, so it’s easy to download everything you need before hitting the trails.</p>\n",
-				"content_text": "Whilst in El Chalten and Bariloche I knew we wanted to do hikes. Over the 4 days of hiking, I used a combination of apps to help us enjoy our hikes. I’ve listed the 3 below and described what I liked about each of them.\n\nMy requirements were:\n\n- Trail discovery. I wanted to find the best trails and maximise our time.\n- Downloadable maps. I wasn’t sure I’d have any network coverage\n- Works on both iPadOS and iOS. I wasn’t going to take my laptop with me. Planning on the iPad is easier than on the phone.\n\nMy requirements didn’t include navigation or recording since my Garmin Instinct series 2 would cover this.\n\n## Gaia GPS\n\n[App Store link](https://apps.apple.com/app/id1201979492)\n\n<img src=\"uploads/2024/img-2196.png\" width=\"600\" height=\"1300\" alt=\"\">\n\nGaia has the prettiest maps out of the three apps I tried. I downloaded maps for El Chalten, El Calafate, and Bariloche. Whilst the UI for downloading was clunky, it worked. Gaia offered an iPadOS version and a web version for its maps.\n\nI found Gaia easy to use and reliable during hikes. It was easy to figure out which turns to take, and how much of our hike was left.\n\nI ended up paying £51.90 for 12 months of access to their mapping. \n\n## All Trails\n\n[App Store link](https://apps.apple.com/app/id405075943)\n\n<img src=\"uploads/2024/img-2197.png\" width=\"600\" height=\"1300\" alt=\"\">\n\n\nWhilst Gaia had beautiful maps, All Trails helped us decide where we wanted to go. They have lots of trail reviews and pictures. \n\nUnfortunately, All Trails doesn’t offer an iPadOS version and for that reason chose Gaia GPS over All Trails for downloading maps.\n\nAll Trails is an App Store Award-winning app, winner of the iPhone App of the Year. I can see why, the app has a great UX.\n\n## Garmin Explore\n\n[App Store Link](https://apps.apple.com/app/id1276675721)\n\n\n<img src=\"uploads/2024/img-2198.png\" width=\"600\" height=\"1300\" alt=\"\">\n\n\nI wish I had discovered this app before our vacation. The maps themselves don’t look as good as either All Trails or Gaia, but the necessary detail is there. And it’s **free**.\n\nIts killer feature is the tight integration with my Garmin Instinct. During an active hike activity on the watch, I could open Garmin Explore, find a destination on a trail, Garmin Explore would create the course, sync it to the watch and start navigating. Seamlessly. Then I could see ETA, estimated time remaining, and ascent remaining on my watch without having to take my phone out of my pocket. It worked great.\n\nGarmin Explore has an iOS and iPadOS version. It’s available on the web via [explore.garmin.com](http://explore.garmin.com) The maps are downloadable by region, so it’s easy to download everything you need before hitting the trails.\n\n",
+				"content_html": "<p>Whilst in El Chalten and Bariloche I knew we wanted to do hikes. Over the 4 days of hiking, I used a combination of apps to help us enjoy our hikes. I’ve listed the 3 below and described what I liked about each of them.</p>\n<p>My requirements were:</p>\n<ul>\n<li>Trail discovery. I wanted to find the best trails and maximise our time.</li>\n<li>Downloadable maps. I wasn’t sure I’d have any network coverage</li>\n<li>Works on both iPadOS and iOS. I wasn’t going to take my laptop with me. Planning on the iPad is easier than on the phone.</li>\n</ul>\n<p>My requirements didn’t include navigation or recording since my Garmin Instinct series 2 would cover this.</p>\n<h2 id=\"gaia-gps\">Gaia GPS</h2>\n<p><a href=\"https://apps.apple.com/app/id1201979492\">App Store link</a></p>\n<img src=\"/cdn-cgi/image/width=600,height=1300/uploads/2024/img-2196.png\" width=\"600\" height=\"1300\" alt=\"Gaia Screenshot\" loading=\"lazy\">\n<p>Gaia has the prettiest maps out of the three apps I tried. I downloaded maps for El Chalten, El Calafate, and Bariloche. Whilst the UI for downloading was clunky, it worked. Gaia offered an iPadOS version and a web version for its maps.</p>\n<p>I found Gaia easy to use and reliable during hikes. It was easy to figure out which turns to take, and how much of our hike was left.</p>\n<p>I ended up paying £51.90 for 12 months of access to their mapping.</p>\n<h2 id=\"all-trails\">All Trails</h2>\n<p><a href=\"https://apps.apple.com/app/id405075943\">App Store link</a></p>\n<img src=\"/cdn-cgi/image/width=600,height=1300/uploads/2024/img-2197.png\" width=\"600\" height=\"1300\" alt=\"All Trails Screenshot\" loading=\"lazy\">\n<p>Whilst Gaia had beautiful maps, All Trails helped us decide where we wanted to go. They have lots of trail reviews and pictures.</p>\n<p>Unfortunately, All Trails doesn’t offer an iPadOS version and for that reason chose Gaia GPS over All Trails for downloading maps.</p>\n<p>All Trails is an App Store Award-winning app, winner of the iPhone App of the Year. I can see why, the app has a great UX.</p>\n<h2 id=\"garmin-explore\">Garmin Explore</h2>\n<p><a href=\"https://apps.apple.com/app/id1276675721\">App Store Link</a></p>\n<img src=\"/cdn-cgi/image/width=600,height=1300/uploads/2024/img-2198.png\" width=\"600\" height=\"1300\" alt=\"Garmin Explore Screenshot\" loading=\"lazy\">\n<p>I wish I had discovered this app before our vacation. The maps themselves don’t look as good as either All Trails or Gaia, but the necessary detail is there. And it’s <strong>free</strong>.</p>\n<p>Its killer feature is the tight integration with my Garmin Instinct. During an active hike activity on the watch, I could open Garmin Explore, find a destination on a trail, Garmin Explore would create the course, sync it to the watch and start navigating. Seamlessly. Then I could see ETA, estimated time remaining, and ascent remaining on my watch without having to take my phone out of my pocket. It worked great.</p>\n<p>Garmin Explore has an iOS and iPadOS version. It’s available on the web via <a href=\"http://explore.garmin.com\">explore.garmin.com</a> The maps are downloadable by region, so it’s easy to download everything you need before hitting the trails.</p>\n",
+				"content_text": "Whilst in El Chalten and Bariloche I knew we wanted to do hikes. Over the 4 days of hiking, I used a combination of apps to help us enjoy our hikes. I’ve listed the 3 below and described what I liked about each of them.\n\nMy requirements were:\n\n- Trail discovery. I wanted to find the best trails and maximise our time.\n- Downloadable maps. I wasn’t sure I’d have any network coverage\n- Works on both iPadOS and iOS. I wasn’t going to take my laptop with me. Planning on the iPad is easier than on the phone.\n\nMy requirements didn’t include navigation or recording since my Garmin Instinct series 2 would cover this.\n\n## Gaia GPS\n\n[App Store link](https://apps.apple.com/app/id1201979492)\n\n<img src=\"/cdn-cgi/image/width=600,height=1300/uploads/2024/img-2196.png\" width=\"600\" height=\"1300\" alt=\"Gaia Screenshot\" loading=\"lazy\">\n\nGaia has the prettiest maps out of the three apps I tried. I downloaded maps for El Chalten, El Calafate, and Bariloche. Whilst the UI for downloading was clunky, it worked. Gaia offered an iPadOS version and a web version for its maps.\n\nI found Gaia easy to use and reliable during hikes. It was easy to figure out which turns to take, and how much of our hike was left.\n\nI ended up paying £51.90 for 12 months of access to their mapping. \n\n## All Trails\n\n[App Store link](https://apps.apple.com/app/id405075943)\n\n<img src=\"/cdn-cgi/image/width=600,height=1300/uploads/2024/img-2197.png\" width=\"600\" height=\"1300\" alt=\"All Trails Screenshot\" loading=\"lazy\">\n\n\nWhilst Gaia had beautiful maps, All Trails helped us decide where we wanted to go. They have lots of trail reviews and pictures. \n\nUnfortunately, All Trails doesn’t offer an iPadOS version and for that reason chose Gaia GPS over All Trails for downloading maps.\n\nAll Trails is an App Store Award-winning app, winner of the iPhone App of the Year. I can see why, the app has a great UX.\n\n## Garmin Explore\n\n[App Store Link](https://apps.apple.com/app/id1276675721)\n\n\n<img src=\"/cdn-cgi/image/width=600,height=1300/uploads/2024/img-2198.png\" width=\"600\" height=\"1300\" alt=\"Garmin Explore Screenshot\" loading=\"lazy\">\n\n\nI wish I had discovered this app before our vacation. The maps themselves don’t look as good as either All Trails or Gaia, but the necessary detail is there. And it’s **free**.\n\nIts killer feature is the tight integration with my Garmin Instinct. During an active hike activity on the watch, I could open Garmin Explore, find a destination on a trail, Garmin Explore would create the course, sync it to the watch and start navigating. Seamlessly. Then I could see ETA, estimated time remaining, and ascent remaining on my watch without having to take my phone out of my pocket. It worked great.\n\nGarmin Explore has an iOS and iPadOS version. It’s available on the web via [explore.garmin.com](http://explore.garmin.com) The maps are downloadable by region, so it’s easy to download everything you need before hitting the trails.\n\n",
 				"date_published": "2024-03-19T13:32:49+01:00",
 				"url": "https://grav.social/2024/03/19/ios-apps-for.html",
 				"tags": ["travel","technology"]
@@ -35,8 +53,8 @@
 			{
 				"id": "http://paulgrav.micro.blog/2024/03/19/cycling-circuito-chico.html",
 				"title": "Travelling in Argentina Pt. 2 — Cycling in Bariloche",
-				"content_html": "<!-- raw HTML omitted -->\n<p><a href=\"https://barilocheturismo.gob.ar/en/short-circuit\">Circuito Chico</a> is a ~20km road that is ~20km from downtown Bariloche. It is one of the main attractions in the area and offers spectacular scenery and it’s from there that you can access <a href=\"https://en.wikipedia.org/wiki/Colonia_Suiza\">Colonia Suiza</a>. A picturesque Swiss-style village. Cycling the Circuito Chico is often suggested as the best way to experience it as opposed to driving. My wife and I recently visited Bariloche and completed the Circuito Chico on bikes but it ended up being a day of frustration rather than one of relaxing in a gorgeous location.</p>\n<p>Don’t cycle from Bariloche to Circuito Chico! It’s a ~40km round trip from downtown Bariloche and is not worth the time and effort. You might think, like I did, what could ruin a 40km ride near the banks of the nearby lake?</p>\n<ol>\n<li>The vast majority of bikes available for hire are mountain bikes. The bikes are heavy, the tires are slow MTB tires. A gravel bike would have been ideal. An e-gravel bike would have been better. I didn’t spot either of those along the way.</li>\n<li>You can’t see much of the lake along the way, so the ride isn’t very interesting.</li>\n<li>Worse. The road is busy. The good news is that the cars give you space. The bad news is that the buses don’t, they expect you to ride in the dirt. One bus passed me so close that I could touch the side of the bus.</li>\n</ol>\n<!-- raw HTML omitted -->\n<p>My advice would be to drive or grab a public bus to Circuit Chico. Then hire an e-bike at the start point. Circuito Chico is not flat! It has numerous short climbs with some tough gradients. Yes, we had a tailwind on the way back but by then we were too spent to enjoy it.</p>\n<p>Check my ride on <a href=\"https://www.strava.com/activities/10925632889\">Strava</a></p>\n",
-				"content_text": "<img src=\"uploads/2024/img-1651.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n\n[Circuito Chico](https://barilocheturismo.gob.ar/en/short-circuit) is a ~20km road that is ~20km from downtown Bariloche. It is one of the main attractions in the area and offers spectacular scenery and it’s from there that you can access [Colonia Suiza](https://en.wikipedia.org/wiki/Colonia_Suiza). A picturesque Swiss-style village. Cycling the Circuito Chico is often suggested as the best way to experience it as opposed to driving. My wife and I recently visited Bariloche and completed the Circuito Chico on bikes but it ended up being a day of frustration rather than one of relaxing in a gorgeous location. \n\nDon’t cycle from Bariloche to Circuito Chico! It’s a ~40km round trip from downtown Bariloche and is not worth the time and effort. You might think, like I did, what could ruin a 40km ride near the banks of the nearby lake?\n\n1. The vast majority of bikes available for hire are mountain bikes. The bikes are heavy, the tires are slow MTB tires. A gravel bike would have been ideal. An e-gravel bike would have been better. I didn’t spot either of those along the way.\n2. You can’t see much of the lake along the way, so the ride isn’t very interesting.\n3. Worse. The road is busy. The good news is that the cars give you space. The bad news is that the buses don’t, they expect you to ride in the dirt. One bus passed me so close that I could touch the side of the bus.\n\n<p>\nIt took us almost 2hrs to cycle 20km to Circuito Chic and by then we felt like we’d had enough. The stiff headwind didn’t help either\n</p>\n\nMy advice would be to drive or grab a public bus to Circuit Chico. Then hire an e-bike at the start point. Circuito Chico is not flat! It has numerous short climbs with some tough gradients. Yes, we had a tailwind on the way back but by then we were too spent to enjoy it.\n\nCheck my ride on [Strava](https://www.strava.com/activities/10925632889)\n\n",
+				"content_html": "<img src=\"/cdn-cgi/image/quality=75,width=600,height=450/uploads/2024/img-1651.jpeg\" width=\"600\" height=\"450\" alt=\"Photo of a hotel on an island surrounded by mountains\" loading=\"lazy\">\n<p><a href=\"https://barilocheturismo.gob.ar/en/short-circuit\">Circuito Chico</a> is a ~20km road that is ~20km from downtown Bariloche. It is one of the main attractions in the area and offers spectacular scenery and it’s from there that you can access <a href=\"https://en.wikipedia.org/wiki/Colonia_Suiza\">Colonia Suiza</a>. A picturesque Swiss-style village. Cycling the Circuito Chico is often suggested as the best way to experience it as opposed to driving. My wife and I recently visited Bariloche and completed the Circuito Chico on bikes but it ended up being a day of frustration rather than one of relaxing in a gorgeous location.</p>\n<p>Don’t cycle from Bariloche to Circuito Chico! It’s a ~40km round trip from downtown Bariloche and is not worth the time and effort. You might think, like I did, what could ruin a 40km ride near the banks of the nearby lake?</p>\n<ol>\n<li>The vast majority of bikes available for hire are mountain bikes. The bikes are heavy, the tires are slow MTB tires. A gravel bike would have been ideal. An e-gravel bike would have been better. I didn’t spot either of those along the way.</li>\n<li>You can’t see much of the lake along the way, so the ride isn’t very interesting.</li>\n<li>Worse. The road is busy. The good news is that the cars give you space. The bad news is that the buses don’t, they expect you to ride in the dirt. One bus passed me so close that I could touch the side of the bus.</li>\n</ol>\n<p>\nIt took us almost 2hrs to cycle 20km to Circuito Chic and by then we felt like we’d had enough. The stiff headwind didn’t help either\n</p>\n<p>My advice would be to drive or grab a public bus to Circuit Chico. Then hire an e-bike at the start point. Circuito Chico is not flat! It has numerous short climbs with some tough gradients. Yes, we had a tailwind on the way back but by then we were too spent to enjoy it.</p>\n<p>Check my ride on <a href=\"https://www.strava.com/activities/10925632889\">Strava</a></p>\n",
+				"content_text": "<img src=\"/cdn-cgi/image/quality=75,width=600,height=450/uploads/2024/img-1651.jpeg\" width=\"600\" height=\"450\" alt=\"Photo of a hotel on an island surrounded by mountains\" loading=\"lazy\">\n\n[Circuito Chico](https://barilocheturismo.gob.ar/en/short-circuit) is a ~20km road that is ~20km from downtown Bariloche. It is one of the main attractions in the area and offers spectacular scenery and it’s from there that you can access [Colonia Suiza](https://en.wikipedia.org/wiki/Colonia_Suiza). A picturesque Swiss-style village. Cycling the Circuito Chico is often suggested as the best way to experience it as opposed to driving. My wife and I recently visited Bariloche and completed the Circuito Chico on bikes but it ended up being a day of frustration rather than one of relaxing in a gorgeous location. \n\nDon’t cycle from Bariloche to Circuito Chico! It’s a ~40km round trip from downtown Bariloche and is not worth the time and effort. You might think, like I did, what could ruin a 40km ride near the banks of the nearby lake?\n\n1. The vast majority of bikes available for hire are mountain bikes. The bikes are heavy, the tires are slow MTB tires. A gravel bike would have been ideal. An e-gravel bike would have been better. I didn’t spot either of those along the way.\n2. You can’t see much of the lake along the way, so the ride isn’t very interesting.\n3. Worse. The road is busy. The good news is that the cars give you space. The bad news is that the buses don’t, they expect you to ride in the dirt. One bus passed me so close that I could touch the side of the bus.\n\n<p>\nIt took us almost 2hrs to cycle 20km to Circuito Chic and by then we felt like we’d had enough. The stiff headwind didn’t help either\n</p>\n\nMy advice would be to drive or grab a public bus to Circuit Chico. Then hire an e-bike at the start point. Circuito Chico is not flat! It has numerous short climbs with some tough gradients. Yes, we had a tailwind on the way back but by then we were too spent to enjoy it.\n\nCheck my ride on [Strava](https://www.strava.com/activities/10925632889)\n\n",
 				"date_published": "2024-03-19T01:25:33+01:00",
 				"url": "https://grav.social/2024/03/19/cycling-circuito-chico.html",
 				"tags": ["cycling","travel"]
@@ -44,7 +62,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2024/03/18/ahead-of-our.html",
 				"title": "Travelling in Argentina Pt. 1 — Currency",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>TLDR: Bring dollars!</p>\n<p>I knew the Argentina would present some unique problem when visiting due to the country’s financial problems. Inflation was over 200% and the peso was artificially pegged the dollar. Ahead the trip we bought $1000, a bit more than what we needed. I figured any currency leftover can be used for future trips to countries were the dollar is in demand.</p>\n<p>On arrival we found using ATMs to be problematic in Argentina. The maximum withdrawl amount was capped at $15000 ARS and the charge to withdraw was over $8000 ARS. At the time $15000 was the equivalent of around 15 GBP. Not great.</p>\n<p>Almost everywhere accepted contactless payment. I either used Apple Pay or Monzo card to pay for things. For everything else we used ARS, and dollars when we were short of ARS. Tipping is expected in the restaurants when service isn’t items on the bill/check/cuenta. The $1000 notes came in handy there.</p>\n<p>In Buenos Aires there were plenty of people offering ”cambio”, but as a foreigner this didn’t feel like the safest option. The additional risk didn’t feel like it was worth the offer of a better exchange rate. Instead we used official cambios that offered us a \"turista” rate that was marginally better than what the local were offered.</p>\n<p>In hindsight I think we got things right. I’d recommend bringing dollars, and find a cambio to buy pesos when you have the opportunity.</p>\n",
 				"content_text": "<p>TLDR: Bring dollars!</p>\n\n<p>I knew the Argentina would present some unique problem when visiting due to the country’s financial problems. Inflation was over 200% and the peso was artificially pegged the dollar. Ahead the trip we bought $1000, a bit more than what we needed. I figured any currency leftover can be used for future trips to countries were the dollar is in demand.</p>\n\n<p>On arrival we found using ATMs to be problematic in Argentina. The maximum withdrawl amount was capped at $15000 ARS and the charge to withdraw was over $8000 ARS. At the time $15000 was the equivalent of around 15 GBP. Not great.</p>\n\n<p>Almost everywhere accepted contactless payment. I either used Apple Pay or Monzo card to pay for things. For everything else we used ARS, and dollars when we were short of ARS. Tipping is expected in the restaurants when service isn’t items on the bill/check/cuenta. The $1000 notes came in handy there.</p>\n\n<p>In Buenos Aires there were plenty of people offering ”cambio”, but as a foreigner this didn’t feel like the safest option. The additional risk didn’t feel like it was worth the offer of a better exchange rate. Instead we used official cambios that offered us a \"turista” rate that was marginally better than what the local were offered.</p>\n\n<p>In hindsight I think we got things right. I’d recommend bringing dollars, and find a cambio to buy pesos when you have the opportunity.</p>\n",
 				"date_published": "2024-03-18T22:51:43+01:00",
 				"url": "https://grav.social/2024/03/18/ahead-of-our.html",
@@ -53,7 +71,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2023/11/01/password-is-it.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://1password.social/@1password\" class=\"u-url mention\">@<span>1password</span></a></span> Is it possible to install/run 1Password in ~/Applications instead of /Applications ?<br />I tried moving 1Password to ~/Applications and it complains.</p>\n",
 				"content_text": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://1password.social/@1password\" class=\"u-url mention\">@<span>1password</span></a></span> Is it possible to install/run 1Password in ~/Applications instead of /Applications ?<br />I tried moving 1Password to ~/Applications and it complains.</p>\n",
 				"date_published": "2023-11-01T17:16:30+01:00",
 				"url": "https://grav.social/2023/11/01/password-is-it.html"
@@ -61,7 +79,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2023/10/04/no-matter-what.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>No matter what I do, Head Tracked Spatial Audio eventually re-enables itself on my 3rd gen. AirPods. Is there any way to turn it off permanently?</p>\n",
 				"content_text": "<p>No matter what I do, Head Tracked Spatial Audio eventually re-enables itself on my 3rd gen. AirPods. Is there any way to turn it off permanently?</p>\n",
 				"date_published": "2023-10-04T18:56:46+01:00",
 				"url": "https://grav.social/2023/10/04/no-matter-what.html"
@@ -69,7 +87,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2023/07/03/stux-does-mstdnsocial.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><span class=\"h-card\"><a href=\"https://mstdn.social/@stux\" class=\"u-url mention\">@<span>stux</span></a></span> Does mstdn.social intend to defederate with Meta/Facebook when that capability eventually arrives?</p>\n",
 				"content_text": "<p><span class=\"h-card\"><a href=\"https://mstdn.social/@stux\" class=\"u-url mention\">@<span>stux</span></a></span> Does mstdn.social intend to defederate with Meta/Facebook when that capability eventually arrives?</p>\n",
 				"date_published": "2023-07-03T14:29:26+01:00",
 				"url": "https://grav.social/2023/07/03/stux-does-mstdnsocial.html"
@@ -77,15 +95,15 @@
 			{
 				"id": "http://paulgrav.micro.blog/2023/06/21/password-whats-going.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><span class=\"h-card\"><a href=\"https://1password.social/@1password\" class=\"u-url mention\">@<span>1password</span></a></span> What’s going on with 1Password’s memory usage. The main window isn’t even open.</p><p><img src=\"https://media.mstdn.social/media_attachments/files/110/581/209/959/394/218/original/a8d6bec4f9d33eaa.png\">\n",
+				"content_html": "<p><span class=\"h-card\"><a href=\"https://1password.social/@1password\" class=\"u-url mention\">@<span>1password</span></a></span> What’s going on with 1Password’s memory usage. The main window isn’t even open.</p><p><img src=\"https://media.mstdn.social/media_attachments/files/110/581/209/959/394/218/original/a8d6bec4f9d33eaa.png\" loading=\"lazy\">\n",
+				"content_text": "<p><span class=\"h-card\"><a href=\"https://1password.social/@1password\" class=\"u-url mention\">@<span>1password</span></a></span> What’s going on with 1Password’s memory usage. The main window isn’t even open.</p><p><img src=\"https://media.mstdn.social/media_attachments/files/110/581/209/959/394/218/original/a8d6bec4f9d33eaa.png\" loading=\"lazy\">\n",
 				"date_published": "2023-06-21T09:16:00+01:00",
 				"url": "https://grav.social/2023/06/21/password-whats-going.html"
 			},
 			{
 				"id": "http://paulgrav.micro.blog/2023/06/11/gruber-i-appreciated.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@gruber\" class=\"u-url mention\">@<span>gruber</span></a></span> I appreciated the The Talk Show Live intro. I waiting to hear ”Now, remember, you&#39;re All a big part of the show, So the better you are, the better John is.”</p>\n",
 				"content_text": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@gruber\" class=\"u-url mention\">@<span>gruber</span></a></span> I appreciated the The Talk Show Live intro. I waiting to hear ”Now, remember, you&#39;re All a big part of the show, So the better you are, the better John is.”</p>\n",
 				"date_published": "2023-06-11T21:02:14+01:00",
 				"url": "https://grav.social/2023/06/11/gruber-i-appreciated.html"
@@ -93,7 +111,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2023/06/05/training-peaks-integration.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Training Peaks integration 😱 <a href=\"https://mstdn.social/tags/wwdc\" class=\"mention hashtag\" rel=\"tag\">#<span>wwdc</span></a></p>\n",
 				"content_text": "<p>Training Peaks integration 😱 <a href=\"https://mstdn.social/tags/wwdc\" class=\"mention hashtag\" rel=\"tag\">#<span>wwdc</span></a></p>\n",
 				"date_published": "2023-06-05T19:15:55+01:00",
 				"url": "https://grav.social/2023/06/05/training-peaks-integration.html"
@@ -101,47 +119,15 @@
 			{
 				"id": "http://paulgrav.micro.blog/2023/06/05/holy-crap-apple.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Holy crap! Apple Watch estimating FTP!? And connectivity to power meters! Still not sure why I’d ditch my Garmin bike computer.  <a href=\"https://mstdn.social/tags/wwdc\" class=\"mention hashtag\" rel=\"tag\">#<span>wwdc</span></a></p>\n",
 				"content_text": "<p>Holy crap! Apple Watch estimating FTP!? And connectivity to power meters! Still not sure why I’d ditch my Garmin bike computer.  <a href=\"https://mstdn.social/tags/wwdc\" class=\"mention hashtag\" rel=\"tag\">#<span>wwdc</span></a></p>\n",
 				"date_published": "2023-06-05T19:14:44+01:00",
 				"url": "https://grav.social/2023/06/05/holy-crap-apple.html"
 			},
 			{
-				"id": "http://paulgrav.micro.blog/2023/04/01/on-or-around.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>On or around 14 Jan, Garmin Connect made a dramatic improvement to it’s Health Kit integration. Prior to 14 Jan it was so bad that I’d turned off most of its write permissions.</p><p>Now:</p><p>- Recorded weights now have the correct time<br />- HR is updated every few minutes<br />- Active Energy is no longer a single data point updated only at 23:59</p><p>It’s still not as complete as Rungap’s HK data (Rungap writes map routes and splits), but at least it’s now usable.</p><p><img src=\"https://media.mstdn.social/media_attachments/files/110/123/193/094/201/667/original/d1177ee490301d06.jpeg\">\n",
-				"date_published": "2023-04-01T11:56:18+01:00",
-				"url": "https://grav.social/2023/04/01/on-or-around.html"
-			},
-			{
-				"id": "http://paulgrav.micro.blog/2023/02/24/of-articles-viewed.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Of 5 articles viewed on Artifact, only one took me to an article I could read. Everything else was covered by a cookie notice or an advert. It just reminded me how reading on the web without content blockers is a miserable experience.</p><p><img src=\"https://media.mstdn.social/media_attachments/files/109/920/640/516/080/157/original/f4695c86bf8920f2.png\">\n",
-				"date_published": "2023-02-24T17:24:47+01:00",
-				"url": "https://grav.social/2023/02/24/of-articles-viewed.html"
-			},
-			{
-				"id": "http://paulgrav.micro.blog/2023/01/29/one-of-my.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>One of my favourite apps <span class=\"h-card\"><a href=\"https://mastodon.social/@foodnoms\" class=\"u-url mention\">@<span>foodnoms</span></a></span> Helps me track my calorific needs and that I’m eating sufficient carbs. It looks great and syncs with Apple Health.</p><p><img src=\"https://media.mstdn.social/media_attachments/files/109/774/026/364/171/639/original/36d8421d5fce1b3d.png\">\n",
-				"date_published": "2023-01-29T19:58:41+01:00",
-				"url": "https://grav.social/2023/01/29/one-of-my.html"
-			},
-			{
-				"id": "http://paulgrav.micro.blog/2023/01/29/it-seems-like.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>It seems like enabling most of 1Blocker’s content blockers resulted in an additional ~6sec of latency added to each page render on macOS Safari 😱</p><p>I’ve kept just one content blocker, Block Ads. That’s removed the majority of latency and brought page rendering to be comparable to Firefox’s.</p><p><img src=\"https://media.mstdn.social/media_attachments/files/109/771/990/434/079/000/original/5dd6b94e36c3f4bf.png\">\n",
-				"date_published": "2023-01-29T11:25:07+01:00",
-				"url": "https://grav.social/2023/01/29/it-seems-like.html"
-			},
-			{
 				"id": "http://paulgrav.micro.blog/2023/01/27/season-of-tlou.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Season 2 of TLOU has been green lit. That’s going to drag a bunch of people through the wringer. <a href=\"https://mstdn.social/tags/tlou\" class=\"mention hashtag\" rel=\"tag\">#<span>tlou</span></a> <a href=\"https://www.theverge.com/2023/1/27/23574443/the-last-of-us-season-2-hbo-renewed\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theverge.com/2023/1/27/2357444</span><span class=\"invisible\">3/the-last-of-us-season-2-hbo-renewed</span></a></p>\n",
 				"content_text": "<p>Season 2 of TLOU has been green lit. That’s going to drag a bunch of people through the wringer. <a href=\"https://mstdn.social/tags/tlou\" class=\"mention hashtag\" rel=\"tag\">#<span>tlou</span></a> <a href=\"https://www.theverge.com/2023/1/27/23574443/the-last-of-us-season-2-hbo-renewed\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theverge.com/2023/1/27/2357444</span><span class=\"invisible\">3/the-last-of-us-season-2-hbo-renewed</span></a></p>\n",
 				"date_published": "2023-01-27T20:30:55+01:00",
 				"url": "https://grav.social/2023/01/27/season-of-tlou.html"
@@ -149,47 +135,23 @@
 			{
 				"id": "http://paulgrav.micro.blog/2023/01/25/using-ivory-has.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Using <span class=\"h-card\"><a href=\"https://tapbots.social/@ivory\" class=\"u-url mention\">@<span>ivory</span></a></span> has made such a difference to my consumption of Mastodon. As a long time Tweetbot/Twitterific user, the migration to Mastodon has been frequently jarring. Now I feel at home. <a href=\"https://mstdn.social/tags/ivory\" class=\"mention hashtag\" rel=\"tag\">#<span>ivory</span></a> <a href=\"https://mstdn.social/tags/mastodon\" class=\"mention hashtag\" rel=\"tag\">#<span>mastodon</span></a></p>\n",
 				"content_text": "<p>Using <span class=\"h-card\"><a href=\"https://tapbots.social/@ivory\" class=\"u-url mention\">@<span>ivory</span></a></span> has made such a difference to my consumption of Mastodon. As a long time Tweetbot/Twitterific user, the migration to Mastodon has been frequently jarring. Now I feel at home. <a href=\"https://mstdn.social/tags/ivory\" class=\"mention hashtag\" rel=\"tag\">#<span>ivory</span></a> <a href=\"https://mstdn.social/tags/mastodon\" class=\"mention hashtag\" rel=\"tag\">#<span>mastodon</span></a></p>\n",
 				"date_published": "2023-01-25T13:28:41+01:00",
 				"url": "https://grav.social/2023/01/25/using-ivory-has.html"
 			},
 			{
-				"id": "http://paulgrav.micro.blog/2023/01/24/cool-just-noticed.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Cool. Just noticed Mastadon has support for 2FA security keys. Which means 2FA with Touch ID or Face ID on Apple devices.</p><p><img src=\"https://media.mstdn.social/media_attachments/files/109/746/584/632/709/395/original/0e4165bd1bd13fb7.png\">\n",
-				"date_published": "2023-01-24T23:45:39+01:00",
-				"url": "https://grav.social/2023/01/24/cool-just-noticed.html"
-			},
-			{
-				"id": "http://paulgrav.micro.blog/2023/01/23/only-the-second.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Only the second time I’ve raced in spikes. They took a battering during yesterday’s frozen XC race. I didn’t expect the ground to be frozen solid. It made for an uncomfortable run. In hindsight 9mm was too long. <a href=\"https://mstdn.social/tags/running\" class=\"mention hashtag\" rel=\"tag\">#<span>running</span></a></p><p><img src=\"https://media.mstdn.social/media_attachments/files/109/738/788/532/754/045/original/4f59e62b6dba8c0e.jpeg\">\n",
-				"date_published": "2023-01-23T14:39:55+01:00",
-				"url": "https://grav.social/2023/01/23/only-the-second.html"
-			},
-			{
 				"id": "http://paulgrav.micro.blog/2023/01/17/132413.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>I’ve been on this planet for 47yrs and yesterday I discovered what that additional hole is used for on trainers. Heel lock. I tried it on this morning’s run and it’s a revelation! <a href=\"https://m.youtube.com/watch?v=1tPGJ3-mxbY\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">m.youtube.com/watch?v=1tPGJ3-m</span><span class=\"invisible\">xbY</span></a> <a href=\"https://mstdn.social/tags/running\" class=\"mention hashtag\" rel=\"tag\">#<span>running</span></a></p>\n",
 				"content_text": "<p>I’ve been on this planet for 47yrs and yesterday I discovered what that additional hole is used for on trainers. Heel lock. I tried it on this morning’s run and it’s a revelation! <a href=\"https://m.youtube.com/watch?v=1tPGJ3-mxbY\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">m.youtube.com/watch?v=1tPGJ3-m</span><span class=\"invisible\">xbY</span></a> <a href=\"https://mstdn.social/tags/running\" class=\"mention hashtag\" rel=\"tag\">#<span>running</span></a></p>\n",
 				"date_published": "2023-01-17T14:24:13+01:00",
 				"url": "https://grav.social/2023/01/17/132413.html"
 			},
 			{
-				"id": "http://paulgrav.micro.blog/2023/01/17/new-shoes-day.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>New shoes day. Another pair of Novablast 3s. These have the perfect balance of comfort, lightness, cushioning, and speed. The perfect daily. And they look great too. <a href=\"https://mstdn.social/tags/running\" class=\"mention hashtag\" rel=\"tag\">#<span>running</span></a></p><p><img src=\"https://media.mstdn.social/media_attachments/files/109/704/668/133/319/009/original/cd4f9cff899fdea5.png\">\n",
-				"date_published": "2023-01-17T14:01:54+01:00",
-				"url": "https://grav.social/2023/01/17/new-shoes-day.html"
-			},
-			{
 				"id": "http://paulgrav.micro.blog/2023/01/16/that-was-great.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>That was great first episode. I’m already bought into Bella Ramsey as Ellie. <a href=\"https://mstdn.social/tags/TLOU\" class=\"mention hashtag\" rel=\"tag\">#<span>TLOU</span></a></p>\n",
 				"content_text": "<p>That was great first episode. I’m already bought into Bella Ramsey as Ellie. <a href=\"https://mstdn.social/tags/TLOU\" class=\"mention hashtag\" rel=\"tag\">#<span>TLOU</span></a></p>\n",
 				"date_published": "2023-01-17T00:17:39+01:00",
 				"url": "https://grav.social/2023/01/16/that-was-great.html"
@@ -197,7 +159,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2023/01/15/stravas-uk-price.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Strava’s UK price increase seems like a reasonable one. I’ve been a user for many years and I still think it’s good value. Especially when considering how other social platforms are run.</p>\n",
 				"content_text": "<p>Strava’s UK price increase seems like a reasonable one. I’ve been a user for many years and I still think it’s good value. Especially when considering how other social platforms are run.</p>\n",
 				"date_published": "2023-01-15T10:43:35+01:00",
 				"url": "https://grav.social/2023/01/15/stravas-uk-price.html"
@@ -205,7 +167,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2023/01/01/a-tip-for.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>A tip for those individuals running K3s on RaspberryPi devices. Be wary of using MySQL as a datastore. MySQL performance can suck which in turn affects the stability of your K3s cluster.</p><p>I’ve installed etcd on a RaspberryPi zero, and it’s working great. etcd is smaller, faster, and more simple to run.</p>\n",
 				"content_text": "<p>A tip for those individuals running K3s on RaspberryPi devices. Be wary of using MySQL as a datastore. MySQL performance can suck which in turn affects the stability of your K3s cluster.</p><p>I’ve installed etcd on a RaspberryPi zero, and it’s working great. etcd is smaller, faster, and more simple to run.</p>\n",
 				"date_published": "2023-01-01T11:04:32+01:00",
 				"url": "https://grav.social/2023/01/01/a-tip-for.html"
@@ -213,7 +175,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/12/18/france-was-dead.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>France was dead, dead, dead. <a href=\"https://mstdn.social/tags/worldcup\" class=\"mention hashtag\" rel=\"tag\">#<span>worldcup</span></a> <a href=\"https://mstdn.social/tags/allezlesbleus\" class=\"mention hashtag\" rel=\"tag\">#<span>allezlesbleus</span></a> <a href=\"https://mstdn.social/tags/allezkylian\" class=\"mention hashtag\" rel=\"tag\">#<span>allezkylian</span></a></p>\n",
 				"content_text": "<p>France was dead, dead, dead. <a href=\"https://mstdn.social/tags/worldcup\" class=\"mention hashtag\" rel=\"tag\">#<span>worldcup</span></a> <a href=\"https://mstdn.social/tags/allezlesbleus\" class=\"mention hashtag\" rel=\"tag\">#<span>allezlesbleus</span></a> <a href=\"https://mstdn.social/tags/allezkylian\" class=\"mention hashtag\" rel=\"tag\">#<span>allezkylian</span></a></p>\n",
 				"date_published": "2022-12-18T17:49:02+01:00",
 				"url": "https://grav.social/2022/12/18/france-was-dead.html"
@@ -221,7 +183,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/12/13/has-anyone-tried.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Has anyone tried sending iOS crash logs via Open Telemetry trace? I’m trying to figure out how to best symbolicate the crash data. <a href=\"https://mstdn.social/tags/opentelemetry\" class=\"mention hashtag\" rel=\"tag\">#<span>opentelemetry</span></a> <a href=\"https://mstdn.social/tags/observability\" class=\"mention hashtag\" rel=\"tag\">#<span>observability</span></a> <a href=\"https://mstdn.social/tags/distributedtracing\" class=\"mention hashtag\" rel=\"tag\">#<span>distributedtracing</span></a></p>\n",
 				"content_text": "<p>Has anyone tried sending iOS crash logs via Open Telemetry trace? I’m trying to figure out how to best symbolicate the crash data. <a href=\"https://mstdn.social/tags/opentelemetry\" class=\"mention hashtag\" rel=\"tag\">#<span>opentelemetry</span></a> <a href=\"https://mstdn.social/tags/observability\" class=\"mention hashtag\" rel=\"tag\">#<span>observability</span></a> <a href=\"https://mstdn.social/tags/distributedtracing\" class=\"mention hashtag\" rel=\"tag\">#<span>distributedtracing</span></a></p>\n",
 				"date_published": "2022-12-13T16:23:22+01:00",
 				"url": "https://grav.social/2022/12/13/has-anyone-tried.html"
@@ -229,7 +191,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/12/02/jpkroehling-do-you.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><span class=\"h-card\"><a href=\"https://grafana.social/@jpkroehling\" class=\"u-url mention\">@<span>jpkroehling</span></a></span> Do you happen to know if there’s a nice way to view Open Telemetry RUM data?<br />I don’t want to have to use the Elastic RUM Agent but the way in which the UX data is displayed in Kibana is really nice.</p>\n",
 				"content_text": "<p><span class=\"h-card\"><a href=\"https://grafana.social/@jpkroehling\" class=\"u-url mention\">@<span>jpkroehling</span></a></span> Do you happen to know if there’s a nice way to view Open Telemetry RUM data?<br />I don’t want to have to use the Elastic RUM Agent but the way in which the UX data is displayed in Kibana is really nice.</p>\n",
 				"date_published": "2022-12-02T15:14:25+01:00",
 				"url": "https://grav.social/2022/12/02/jpkroehling-do-you.html"
@@ -237,31 +199,23 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/12/01/apparently-there-is.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Apparently there is no possibility to check a decision with VAR after the whistle has been blown to restart the match, and after the final whistle has been blow.</p><p>Except that’s exactly what the ref did during the France - Tunisia match.<br />Fortunately this screw up had no influence on the outcome of the group.<br /> <a href=\"https://mstdn.social/tags/fifa\" class=\"mention hashtag\" rel=\"tag\">#<span>fifa</span></a> <a href=\"https://mstdn.social/tags/worldcup\" class=\"mention hashtag\" rel=\"tag\">#<span>worldcup</span></a></p>\n",
 				"content_text": "<p>Apparently there is no possibility to check a decision with VAR after the whistle has been blown to restart the match, and after the final whistle has been blow.</p><p>Except that’s exactly what the ref did during the France - Tunisia match.<br />Fortunately this screw up had no influence on the outcome of the group.<br /> <a href=\"https://mstdn.social/tags/fifa\" class=\"mention hashtag\" rel=\"tag\">#<span>fifa</span></a> <a href=\"https://mstdn.social/tags/worldcup\" class=\"mention hashtag\" rel=\"tag\">#<span>worldcup</span></a></p>\n",
 				"date_published": "2022-12-01T16:23:49+01:00",
 				"url": "https://grav.social/2022/12/01/apparently-there-is.html"
 			},
 			{
-				"id": "http://paulgrav.micro.blog/2022/11/30/the-fts-how.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>The FT’s “How Brexit made Britain a more European country” is hilarious. <a href=\"https://www.ft.com/content/69d07f30-9a24-4740-9da7-b8b6f6ecbfbf\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">ft.com/content/69d07f30-9a24-4</span><span class=\"invisible\">740-9da7-b8b6f6ecbfbf</span></a></p><p><img src=\"https://media.mstdn.social/media_attachments/files/109/431/424/778/378/368/original/ea619bc11fb90c7a.png\">\n",
-				"date_published": "2022-11-30T07:52:29+01:00",
-				"url": "https://grav.social/2022/11/30/the-fts-how.html"
-			},
-			{
 				"id": "http://paulgrav.micro.blog/2022/11/24/ran-a-good.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Ran a good 5k last night. 7 secs from a PB. Saucony Endorphins Pro instead of my Flyknits. They worked well. I think next time I’ll use pace alerts to make sure I don’t back off. <a href=\"https://mstdn.social/tags/running\" class=\"mention hashtag\" rel=\"tag\">#<span>running</span></a></p><p><img src=\"https://media.mstdn.social/media_attachments/files/109/398/500/912/906/083/original/3f7abcb92149886c.jpg\">\n",
+				"content_html": "<p>Ran a good 5k last night. 7 secs from a PB. Saucony Endorphins Pro instead of my Flyknits. They worked well. I think next time I’ll use pace alerts to make sure I don’t back off. <a href=\"https://mstdn.social/tags/running\" class=\"mention hashtag\" rel=\"tag\">#<span>running</span></a></p><p><img src=\"https://media.mstdn.social/media_attachments/files/109/398/500/912/906/083/original/3f7abcb92149886c.jpg\" loading=\"lazy\">\n",
+				"content_text": "<p>Ran a good 5k last night. 7 secs from a PB. Saucony Endorphins Pro instead of my Flyknits. They worked well. I think next time I’ll use pace alerts to make sure I don’t back off. <a href=\"https://mstdn.social/tags/running\" class=\"mention hashtag\" rel=\"tag\">#<span>running</span></a></p><p><img src=\"https://media.mstdn.social/media_attachments/files/109/398/500/912/906/083/original/3f7abcb92149886c.jpg\" loading=\"lazy\">\n",
 				"date_published": "2022-11-24T12:20:02+01:00",
 				"url": "https://grav.social/2022/11/24/ran-a-good.html"
 			},
 			{
 				"id": "http://paulgrav.micro.blog/2022/11/23/i-wrote-some.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>I wrote some code... It’s a Concourse Resource Type that allows interactions with Octopus Deployments. <a href=\"https://github.com/paulgrav/concourse-octopus-deployment\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paulgrav/concourse-</span><span class=\"invisible\">octopus-deployment</span></a></p>\n",
 				"content_text": "<p>I wrote some code... It’s a Concourse Resource Type that allows interactions with Octopus Deployments. <a href=\"https://github.com/paulgrav/concourse-octopus-deployment\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paulgrav/concourse-</span><span class=\"invisible\">octopus-deployment</span></a></p>\n",
 				"date_published": "2022-11-23T11:28:24+01:00",
 				"url": "https://grav.social/2022/11/23/i-wrote-some.html"
@@ -269,7 +223,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/11/22/the-matches-having.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>The matches having n minute added due to stoppages is fine... but why isn’t that consistent with refereeing in Europe? Moreover, the viewer has no idea how much time is left. Football always a few steps behind Rugby. <a href=\"https://mstdn.social/tags/worldcup\" class=\"mention hashtag\" rel=\"tag\">#<span>worldcup</span></a></p>\n",
 				"content_text": "<p>The matches having n minute added due to stoppages is fine... but why isn’t that consistent with refereeing in Europe? Moreover, the viewer has no idea how much time is left. Football always a few steps behind Rugby. <a href=\"https://mstdn.social/tags/worldcup\" class=\"mention hashtag\" rel=\"tag\">#<span>worldcup</span></a></p>\n",
 				"date_published": "2022-11-22T19:44:56+01:00",
 				"url": "https://grav.social/2022/11/22/the-matches-having.html"
@@ -277,7 +231,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/11/18/the-fifa-world.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>The FIFA World Cup 22 is sponsored by Budweiser who can’t sell their beer in the stadia. It’s not like the right to host the World Cup was awarded yesterday to Qatar. There were 12yrs to sort that out. </p><p>Maybe World Cups can only be awarded to countries that support western values.</p><p><a href=\"https://mstdn.social/tags/football\" class=\"mention hashtag\" rel=\"tag\">#<span>football</span></a> <a href=\"https://mstdn.social/tags/sports\" class=\"mention hashtag\" rel=\"tag\">#<span>sports</span></a> <a href=\"https://mstdn.social/tags/worldcup\" class=\"mention hashtag\" rel=\"tag\">#<span>worldcup</span></a> <a href=\"https://news.sky.com/story/qatar-world-cup-beer-could-be-banned-from-all-stadiums-12750052\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">news.sky.com/story/qatar-world</span><span class=\"invisible\">-cup-beer-could-be-banned-from-all-stadiums-12750052</span></a></p>\n",
 				"content_text": "<p>The FIFA World Cup 22 is sponsored by Budweiser who can’t sell their beer in the stadia. It’s not like the right to host the World Cup was awarded yesterday to Qatar. There were 12yrs to sort that out. </p><p>Maybe World Cups can only be awarded to countries that support western values.</p><p><a href=\"https://mstdn.social/tags/football\" class=\"mention hashtag\" rel=\"tag\">#<span>football</span></a> <a href=\"https://mstdn.social/tags/sports\" class=\"mention hashtag\" rel=\"tag\">#<span>sports</span></a> <a href=\"https://mstdn.social/tags/worldcup\" class=\"mention hashtag\" rel=\"tag\">#<span>worldcup</span></a> <a href=\"https://news.sky.com/story/qatar-world-cup-beer-could-be-banned-from-all-stadiums-12750052\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">news.sky.com/story/qatar-world</span><span class=\"invisible\">-cup-beer-could-be-banned-from-all-stadiums-12750052</span></a></p>\n",
 				"date_published": "2022-11-18T14:36:29+01:00",
 				"url": "https://grav.social/2022/11/18/the-fifa-world.html"
@@ -285,7 +239,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/11/12/a-tough-parkrun.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>A tough Parkrun at Temple Newsam. Not sure if I should have expected a time closer to 19mins <a href=\"https://mstdn.social/tags/running\" class=\"mention hashtag\" rel=\"tag\">#<span>running</span></a><br /><a href=\"https://strava.app.link/SQBAmTCKTub\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"\">strava.app.link/SQBAmTCKTub</span><span class=\"invisible\"></span></a></p><p><img src=\"https://media.mstdn.social/media_attachments/files/109/331/467/788/810/590/original/5327a14cb0925f98.jpg\">\n",
 				"content_text": "<p>A tough Parkrun at Temple Newsam. Not sure if I should have expected a time closer to 19mins <a href=\"https://mstdn.social/tags/running\" class=\"mention hashtag\" rel=\"tag\">#<span>running</span></a><br /><a href=\"https://strava.app.link/SQBAmTCKTub\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"\">strava.app.link/SQBAmTCKTub</span><span class=\"invisible\"></span></a></p><p><img src=\"https://media.mstdn.social/media_attachments/files/109/331/467/788/810/590/original/5327a14cb0925f98.jpg\">\n",
 				"date_published": "2022-11-12T16:11:20+01:00",
 				"url": "https://grav.social/2022/11/12/a-tough-parkrun.html"
@@ -293,7 +247,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/11/12/happy-caturday.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Happy <a href=\"https://mstdn.social/tags/caturday\" class=\"mention hashtag\" rel=\"tag\">#<span>caturday</span></a></p><p><img src=\"https://media.mstdn.social/media_attachments/files/109/331/227/003/475/465/original/50c369004e89b511.jpg\">\n",
 				"content_text": "<p>Happy <a href=\"https://mstdn.social/tags/caturday\" class=\"mention hashtag\" rel=\"tag\">#<span>caturday</span></a></p><p><img src=\"https://media.mstdn.social/media_attachments/files/109/331/227/003/475/465/original/50c369004e89b511.jpg\">\n",
 				"date_published": "2022-11-12T15:13:32+01:00",
 				"url": "https://grav.social/2022/11/12/happy-caturday.html"
@@ -301,7 +255,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/11/11/twitter-looks-like.html",
 				
-				"content_html": "<p>Twitter looks like it’s imploding, so I’ve been using <!-- raw HTML omitted -->Mastodon<!-- raw HTML omitted --> instead.</p>\n",
+				"content_html": "<p>Twitter looks like it’s imploding, so I’ve been using <a rel=\"me\" href=\"https://mstdn.social/@paulgrav\">Mastodon</a> instead.</p>\n",
 				"content_text": "Twitter looks like it’s imploding, so I’ve been using <a rel=\"me\" href=\"https://mstdn.social/@paulgrav\">Mastodon</a> instead.\n",
 				"date_published": "2022-11-11T10:37:18+01:00",
 				"url": "https://grav.social/2022/11/11/twitter-looks-like.html"
@@ -309,7 +263,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/11/10/france-squad-announced.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>France squad announced last night. I’m not hopeful that France can retain the World Cup. France has struggled this year to not concede goals. I don’t see how a midfield can be composed that matches 2018’s Kanté, Pogba, Matuidi. <a href=\"https://mstdn.social/tags/worldcup\" class=\"mention hashtag\" rel=\"tag\">#<span>worldcup</span></a> <a href=\"https://mstdn.social/tags/football\" class=\"mention hashtag\" rel=\"tag\">#<span>football</span></a></p>\n",
 				"content_text": "<p>France squad announced last night. I’m not hopeful that France can retain the World Cup. France has struggled this year to not concede goals. I don’t see how a midfield can be composed that matches 2018’s Kanté, Pogba, Matuidi. <a href=\"https://mstdn.social/tags/worldcup\" class=\"mention hashtag\" rel=\"tag\">#<span>worldcup</span></a> <a href=\"https://mstdn.social/tags/football\" class=\"mention hashtag\" rel=\"tag\">#<span>football</span></a></p>\n",
 				"date_published": "2022-11-10T08:35:33+01:00",
 				"url": "https://grav.social/2022/11/10/france-squad-announced.html"
@@ -325,7 +279,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/11/10/072401.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Played the first 30mins of God of War: Ragnarok. Wow. The acting, the score, the gameplay. All top notch. <a href=\"https://mstdn.social/tags/ps5\" class=\"mention hashtag\" rel=\"tag\">#<span>ps5</span></a> <a href=\"https://mstdn.social/tags/gaming\" class=\"mention hashtag\" rel=\"tag\">#<span>gaming</span></a></p>\n",
 				"content_text": "<p>Played the first 30mins of God of War: Ragnarok. Wow. The acting, the score, the gameplay. All top notch. <a href=\"https://mstdn.social/tags/ps5\" class=\"mention hashtag\" rel=\"tag\">#<span>ps5</span></a> <a href=\"https://mstdn.social/tags/gaming\" class=\"mention hashtag\" rel=\"tag\">#<span>gaming</span></a></p>\n",
 				"date_published": "2022-11-10T08:24:01+01:00",
 				"url": "https://grav.social/2022/11/10/072401.html"
@@ -333,7 +287,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/11/07/131143.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>What’s surprising about Mastodon is how much of it just works. There are definitely issues but there’s a lot of promise.<br />Just waiting from Trump to come back to Twitter 🙏🏻</p>\n",
 				"content_text": "<p>What’s surprising about Mastodon is how much of it just works. There are definitely issues but there’s a lot of promise.<br />Just waiting from Trump to come back to Twitter 🙏🏻</p>\n",
 				"date_published": "2022-11-07T14:11:43+01:00",
 				"url": "https://grav.social/2022/11/07/131143.html"
@@ -349,7 +303,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/11/07/manton-how-do.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@manton\" class=\"u-url mention\">@<span>manton</span></a></span> How do manage both your Micro Blog account and your Mastodon one? Did you cross post from Micro Blog to Mastodon or keep both separate? There doesn’t seem to be a way to consolidate both identities.</p>\n",
 				"content_text": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@manton\" class=\"u-url mention\">@<span>manton</span></a></span> How do manage both your Micro Blog account and your Mastodon one? Did you cross post from Micro Blog to Mastodon or keep both separate? There doesn’t seem to be a way to consolidate both identities.</p>\n",
 				"date_published": "2022-11-07T14:09:33+01:00",
 				"url": "https://grav.social/2022/11/07/manton-how-do.html"
@@ -357,7 +311,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/11/07/130117.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Every World Cup and Olympics tends to be preceded by negative stories. I’m wondering home much of the negativity about Qatar hosting the World Cup will end once the competition starts.</p>\n",
 				"content_text": "<p>Every World Cup and Olympics tends to be preceded by negative stories. I’m wondering home much of the negativity about Qatar hosting the World Cup will end once the competition starts.</p>\n",
 				"date_published": "2022-11-07T14:01:17+01:00",
 				"url": "https://grav.social/2022/11/07/130117.html"
@@ -373,7 +327,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/11/06/221722.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Ran a marathon on 9 Oct. And I’ve been struggling to fully recover since. HRV rallied immediately afterwards but cratered 10 days later. Only returning to some form of normality this weekend. Then back to unbalanced after a Saturday workout.</p><p><img src=\"https://media.mstdn.social/media_attachments/files/109/299/173/925/377/800/original/c0283b10d014a31e.png\">\n",
 				"content_text": "<p>Ran a marathon on 9 Oct. And I’ve been struggling to fully recover since. HRV rallied immediately afterwards but cratered 10 days later. Only returning to some form of normality this weekend. Then back to unbalanced after a Saturday workout.</p><p><img src=\"https://media.mstdn.social/media_attachments/files/109/299/173/925/377/800/original/c0283b10d014a31e.png\">\n",
 				"date_published": "2022-11-06T23:17:22+01:00",
 				"url": "https://grav.social/2022/11/06/221722.html"
@@ -381,7 +335,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/11/06/ran-a-marathon.html",
 				
-				"content_html": "<p>Ran a marathon on 9 Oct. And I’ve been struggling to fully recover since. HRV rallied immediately afterwards but cratered 10 days later. Only returning to some form of normality this weekend. Then back to unbalanced after a Saturday workout.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Ran a marathon on 9 Oct. And I’ve been struggling to fully recover since. HRV rallied immediately afterwards but cratered 10 days later. Only returning to some form of normality this weekend. Then back to unbalanced after a Saturday workout.</p>\n<img src=\"https://cdn.uploads.micro.blog/31811/2022/d3d2683499.png\" width=\"276\" height=\"600\" alt=\"\">\n",
 				"content_text": "Ran a marathon on 9 Oct. And I’ve been struggling to fully recover since. HRV rallied immediately afterwards but cratered 10 days later. Only returning to some form of normality this weekend. Then back to unbalanced after a Saturday workout. \n\n<img src=\"https://cdn.uploads.micro.blog/31811/2022/d3d2683499.png\" width=\"276\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-06T23:16:41+01:00",
 				"url": "https://grav.social/2022/11/06/ran-a-marathon.html",
@@ -390,7 +344,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/11/06/marathon-report.html",
 				"title": "Bucharest Marathon report",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_html": "<h1>Bucharest Marathon race report</h1>\n<h2>Background</h2>\n<p>I ran the Paris marathon last year and missed a sub 3hr by 9secs. This year’s marathon was a chance to smash my PB. It didn’t work out that way.</p>\n<h2>Training</h2>\n<p>Matt Fitzgerald’s training plan was the basis of my training the previous year. For no good reason I chose Pfitzinger’s 18 week 55-70mile plan this time round. </p>\n<p>Training was punctured with multiple vacations, poor me. I struggled to find/make the time in my routine to get the med-long runs done. In the end my training consistency wasn’t where it needed to be. That said, I did manage to achieve the necessary running volume during the weeks prior to the race. </p>\n<p>I was also nursing a knee injury that impaired my ability to get the volume of running done.</p>\n<h2>Pre-race</h2>\n<p>For the taper, I tried to follow what I had done the previous year since that clearly worked. The exception was that I sprinkled in some hard VO2max bike workouts.\nI’ve been monitoring my HRV throughout the summer and I was puzzled why my watch was telling me that I was strained. Completely the inverse of what I expected and made me worry that my immune system was under some sort of stress that was unknown to me.</p>\n<h2>Race</h2>\n<p>Temp at the start was 15° on a clear sunny day. Towards the end it was near 21°. </p>\n<p>0-2km Felt good. Ran to RPE. Pace was a comfortable 4m00s.</p>\n<p>3-21km Pace dropped to 4m10s. HR was higher than I would have liked to be. Last year it was a few beats above 150, now it was approaching 160. Too close to threshold but I didn’t want to slow down since RPE felt fine. </p>\n<p>21-28km The beginning of the end. Maintaining my target pace was becoming more challenging. My hip was starting to hurt. I could feel signs of cramp in my calves. I wasn’t enjoying it anymore. </p>\n<p>28-30km Pace dropped to 4m30s. I was fighting my body to keep the target pace. The hip pain was getting worse and I was starting to limp. By 30km the discomfort was too much and I had to walk. It didn’t take me long to come to terms that all the training I’d done wasn’t sufficient. 12k to go, what do I do now? The answer was simple, try to jog to the finish and enjoy the beautiful autumn day in Bucharest. </p>\n<p>30-39km No question it was a slog. At 35km I could feel that my cardio had enough.</p>\n<p>39-42km Casa Parlamentului was now visible. The end was in sight. I managed to push a little harder and run a couple of final sub-6m/km. </p>\n<h2>The event</h2>\n<p>The route was nice. It passed the nicer areas of Bucharest. România in Autumn is beautiful. Temperatures are pleasant.\nThere were a lot fewer runners than at Paris. 600-800 versus the 18000 at Paris. I was frequently running alone.\nThe atmosphere was spartan to say the least. I appreciated the few people who took the time to cheer us on.</p>\n<h2>Conclusions</h2>\n<p>Did I go out too hard? It’s possible, but the RPE felt fine. I ran my last marathon to RPE and this one didn’t feel any harder.\nDid the VO2 bike workouts help or hinder? If anything, it would be the later. They might have allowed me to run faster than my legs could sustain. </p>\n<p>I think the main reason why my Paris marathon was successful and this one wasn’t was due to adherence to the plan. Too many vacations. One injury too many. Too few long runs at marathon pace. Getting the volume up to 90km wasn’t itself sufficient.</p>\n<p>If I ever attempt another marathon, I will load up Matt Fitzgerald’s plan stick to it religiously. </p>\n",
 				"content_text": "<h1>Bucharest Marathon race report</h1>\n\n<h2>Background</h2>\n\n<p>I ran the Paris marathon last year and missed a sub 3hr by 9secs. This year’s marathon was a chance to smash my PB. It didn’t work out that way.</p>\n\n<h2>Training</h2>\n\n<p>Matt Fitzgerald’s training plan was the basis of my training the previous year. For no good reason I chose Pfitzinger’s 18 week 55-70mile plan this time round. </p>\n\n<p>Training was punctured with multiple vacations, poor me. I struggled to find/make the time in my routine to get the med-long runs done. In the end my training consistency wasn’t where it needed to be. That said, I did manage to achieve the necessary running volume during the weeks prior to the race. </p>\n\n<p>I was also nursing a knee injury that impaired my ability to get the volume of running done.</p>\n\n<h2>Pre-race</h2>\n\n<p>For the taper, I tried to follow what I had done the previous year since that clearly worked. The exception was that I sprinkled in some hard VO2max bike workouts.\nI’ve been monitoring my HRV throughout the summer and I was puzzled why my watch was telling me that I was strained. Completely the inverse of what I expected and made me worry that my immune system was under some sort of stress that was unknown to me.</p>\n\n<h2>Race</h2>\n\n<p>Temp at the start was 15° on a clear sunny day. Towards the end it was near 21°. </p>\n\n<p>0-2km Felt good. Ran to RPE. Pace was a comfortable 4m00s.</p>\n\n<p>3-21km Pace dropped to 4m10s. HR was higher than I would have liked to be. Last year it was a few beats above 150, now it was approaching 160. Too close to threshold but I didn’t want to slow down since RPE felt fine. </p>\n\n<p>21-28km The beginning of the end. Maintaining my target pace was becoming more challenging. My hip was starting to hurt. I could feel signs of cramp in my calves. I wasn’t enjoying it anymore. </p>\n\n<p>28-30km Pace dropped to 4m30s. I was fighting my body to keep the target pace. The hip pain was getting worse and I was starting to limp. By 30km the discomfort was too much and I had to walk. It didn’t take me long to come to terms that all the training I’d done wasn’t sufficient. 12k to go, what do I do now? The answer was simple, try to jog to the finish and enjoy the beautiful autumn day in Bucharest. </p>\n\n<p>30-39km No question it was a slog. At 35km I could feel that my cardio had enough.</p>\n\n<p>39-42km Casa Parlamentului was now visible. The end was in sight. I managed to push a little harder and run a couple of final sub-6m/km. </p>\n\n<h2>The event</h2>\n\n<p>The route was nice. It passed the nicer areas of Bucharest. România in Autumn is beautiful. Temperatures are pleasant.\nThere were a lot fewer runners than at Paris. 600-800 versus the 18000 at Paris. I was frequently running alone.\nThe atmosphere was spartan to say the least. I appreciated the few people who took the time to cheer us on.</p>\n\n<h2>Conclusions</h2>\n\n<p>Did I go out too hard? It’s possible, but the RPE felt fine. I ran my last marathon to RPE and this one didn’t feel any harder.\nDid the VO2 bike workouts help or hinder? If anything, it would be the later. They might have allowed me to run faster than my legs could sustain. </p>\n\n<p>I think the main reason why my Paris marathon was successful and this one wasn’t was due to adherence to the plan. Too many vacations. One injury too many. Too few long runs at marathon pace. Getting the volume up to 90km wasn’t itself sufficient.</p>\n\n<p>If I ever attempt another marathon, I will load up Matt Fitzgerald’s plan stick to it religiously. </p>\n",
 				"date_published": "2022-11-06T22:31:26+01:00",
 				"url": "https://grav.social/2022/11/06/marathon-report.html",
@@ -407,7 +361,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/11/06/multiple-mastodon-services.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Multiple Mastodon services, each looking exactly the same, but your account only works on one. That’s a support nightmare.</p><p>I’ve already tried signing into the &quot;wrong&quot; Mastodon server multiple times. And I’m a techy.</p>\n",
 				"content_text": "<p>Multiple Mastodon services, each looking exactly the same, but your account only works on one. That’s a support nightmare.</p><p>I’ve already tried signing into the &quot;wrong&quot; Mastodon server multiple times. And I’m a techy.</p>\n",
 				"date_published": "2022-11-06T20:33:29+01:00",
 				"url": "https://grav.social/2022/11/06/multiple-mastodon-services.html"
@@ -415,7 +369,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2022/11/06/how-does-content.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>How does content moderation work here? How long until this place too is polluted by bigots?</p>\n",
 				"content_text": "<p>How does content moderation work here? How long until this place too is polluted by bigots?</p>\n",
 				"date_published": "2022-11-06T09:25:04+01:00",
 				"url": "https://grav.social/2022/11/06/how-does-content.html"
@@ -423,7 +377,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2021/10/12/exciting-medical-certificate.html",
 				
-				"content_html": "<p>Exciting. Medical certificate has been accepted. That’s a small weight off. Race number looks like it’s not a joke number but is indeed 12340 😂 #parismarathon</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>Exciting. Medical certificate has been accepted. That’s a small weight off. Race number looks like it’s not a joke number but is indeed 12340 😂 #parismarathon</p>\n<p><img src=\"https://cdn.uploads.micro.blog/31811/2021/35ed70c55b.png\" width=\"600\" height=\"483\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/31811/2021/8c727220ea.png\" width=\"448\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Exciting. Medical certificate has been accepted. That’s a small weight off. Race number looks like it’s not a joke number but is indeed 12340 😂 #parismarathon\n\n<img src=\"https://cdn.uploads.micro.blog/31811/2021/35ed70c55b.png\" width=\"600\" height=\"483\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/31811/2021/8c727220ea.png\" width=\"448\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-12T14:33:59+01:00",
 				"url": "https://grav.social/2021/10/12/exciting-medical-certificate.html"
@@ -431,7 +385,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2021/07/24/adidas-ultra-boost.html",
 				"title": "Adidas Ultra Boost Summer RDY — first impressions",
-				"content_html": "<p>Why did I buy these? My wife is a big fan of Ultra Boosts and they were heavily discounted. After 2 runs I’m not sure when or why I’d ever choose to run in these.</p>\n<p>The sock-like fit is nice, they’re like putting on slippers. Unfortunately I think I might be faster in slippers.</p>\n<p>The Adidas sizing is frustrating. I initially ordered a size too small. In the UK shoes are sold in UK sizes, most of the time. My European size is 46. Unlike Brooks, Saucony, and HokaONEONE, a European size 46 in Adidas land is 11 whereas it’s 10.5 for the other brands.</p>\n<p>The toe box is spacious and they do allow in more air than any of the other shoes I own.</p>\n<p>It feels like there’s a fair amount of flex in the sole. The heel feels well cushioned but the forefoot feels somewhat uncushioned. Not sure I like this, I prefer my shoes to bit a bit more ridgid.</p>\n<p>Weighing 373g, the Ultra Boosts are by far the heaviest running shoes I own. My next heaviest shoe is the Ghost 14, weighing 311g. My 18 month old and worn out Ghost 13s feel better than running in these.</p>\n<p>These Ultra Boosts are totally underwhelming.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Why did I buy these? My wife is a big fan of Ultra Boosts and they were heavily discounted. After 2 runs I’m not sure when or why I’d ever choose to run in these.</p>\n<p>The sock-like fit is nice, they’re like putting on slippers. Unfortunately I think I might be faster in slippers.</p>\n<p>The Adidas sizing is frustrating. I initially ordered a size too small. In the UK shoes are sold in UK sizes, most of the time. My European size is 46. Unlike Brooks, Saucony, and HokaONEONE, a European size 46 in Adidas land is 11 whereas it’s 10.5 for the other brands.</p>\n<p>The toe box is spacious and they do allow in more air than any of the other shoes I own.</p>\n<p>It feels like there’s a fair amount of flex in the sole. The heel feels well cushioned but the forefoot feels somewhat uncushioned. Not sure I like this, I prefer my shoes to bit a bit more ridgid.</p>\n<p>Weighing 373g, the Ultra Boosts are by far the heaviest running shoes I own. My next heaviest shoe is the Ghost 14, weighing 311g. My 18 month old and worn out Ghost 13s feel better than running in these.</p>\n<p>These Ultra Boosts are totally underwhelming.</p>\n<img src=\"https://cdn.uploads.micro.blog/31811/2021/92d096ca03.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"content_text": "Why did I buy these? My wife is a big fan of Ultra Boosts and they were heavily discounted. After 2 runs I’m not sure when or why I’d ever choose to run in these.\r\n\r\nThe sock-like fit is nice, they’re like putting on slippers. Unfortunately I think I might be faster in slippers.\r\n\r\nThe Adidas sizing is frustrating. I initially ordered a size too small. In the UK shoes are sold in UK sizes, most of the time. My European size is 46. Unlike Brooks, Saucony, and HokaONEONE, a European size 46 in Adidas land is 11 whereas it’s 10.5 for the other brands.\r\n\r\nThe toe box is spacious and they do allow in more air than any of the other shoes I own.\r\n\r\nIt feels like there’s a fair amount of flex in the sole. The heel feels well cushioned but the forefoot feels somewhat uncushioned. Not sure I like this, I prefer my shoes to bit a bit more ridgid.\r\n\r\nWeighing 373g, the Ultra Boosts are by far the heaviest running shoes I own. My next heaviest shoe is the Ghost 14, weighing 311g. My 18 month old and worn out Ghost 13s feel better than running in these.\r\n\r\nThese Ultra Boosts are totally underwhelming. \r\n\r\n<img src=\"https://cdn.uploads.micro.blog/31811/2021/92d096ca03.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-07-24T16:36:02+01:00",
 				"url": "https://grav.social/2021/07/24/adidas-ultra-boost.html"
@@ -439,7 +393,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2021/07/22/saucony-endorphin-speed.html",
 				"title": "Saucony Endorphin Speed 2 First Impressions",
-				"content_html": "<p>Impressions after a tempo 10k…</p>\n<p>The size 46 and the fit is great, the toe box is nice and roomy. I would say I prefer the fit of the Endorphins over my HOKAs. The HOKAs are a close fit.</p>\n<p>The shoe itself is nice and light. They might be as fast as the Rincons, but I’ll need to complete a few more runs.</p>\n<p>These will likely be part of my regular rotation which currently includes HOKAOneOne Cliftons and Rincons 👍🏻</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Impressions after a tempo 10k…</p>\n<p>The size 46 and the fit is great, the toe box is nice and roomy. I would say I prefer the fit of the Endorphins over my HOKAs. The HOKAs are a close fit.</p>\n<p>The shoe itself is nice and light. They might be as fast as the Rincons, but I’ll need to complete a few more runs.</p>\n<p>These will likely be part of my regular rotation which currently includes HOKAOneOne Cliftons and Rincons 👍🏻</p>\n<img src=\"https://cdn.uploads.micro.blog/31811/2021/77f2ff4b8a.jpg\" width=\"600\" height=\"450\" alt=\"Saucony Endorphin Speed 2\" />\n",
 				"content_text": "Impressions after a tempo 10k… \n\nThe size 46 and the fit is great, the toe box is nice and roomy. I would say I prefer the fit of the Endorphins over my HOKAs. The HOKAs are a close fit.\n\nThe shoe itself is nice and light. They might be as fast as the Rincons, but I’ll need to complete a few more runs.\n\nThese will likely be part of my regular rotation which currently includes HOKAOneOne Cliftons and Rincons 👍🏻\n\n<img src=\"https://cdn.uploads.micro.blog/31811/2021/77f2ff4b8a.jpg\" width=\"600\" height=\"450\" alt=\"Saucony Endorphin Speed 2\" />\n",
 				"date_published": "2021-07-22T09:44:00+01:00",
 				"url": "https://grav.social/2021/07/22/saucony-endorphin-speed.html"
@@ -447,7 +401,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2021/07/11/fantastically-well-organised.html",
 				
-				"content_html": "<p>Fantastically well organised @ilkleyhalf First half marathon race. Really happy to manage a sub-90min. Crowds were amazing. Thanks Ilkley. 👏🏻</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Fantastically well organised @ilkleyhalf First half marathon race. Really happy to manage a sub-90min. Crowds were amazing. Thanks Ilkley. 👏🏻</p>\n<img src=\"https://cdn.uploads.micro.blog/31811/2021/436a759a57.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"content_text": "Fantastically well organised @ilkleyhalf First half marathon race. Really happy to manage a sub-90min. Crowds were amazing. Thanks Ilkley. 👏🏻\n\n<img src=\"https://cdn.uploads.micro.blog/31811/2021/436a759a57.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-11T17:01:34+01:00",
 				"url": "https://grav.social/2021/07/11/fantastically-well-organised.html"
@@ -455,7 +409,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2021/07/10/first-ever-half.html",
 				
-				"content_html": "<p>First ever half marathon tomorrow. Aiming for 90mins but the second half is a bit lumpy. We’ll see.\nAlso using this to test marathon fuelling strategy. 3/4 gels: 60g of glucose. A 375ml water bottle with 50g of sugar (1:1 fructose/glucose), and 250mg of sodium citrate. Aiming to offset a ~1.5L sweat rate with drinking 330ml at each of the water stations. (I’ve spent some time thinking about this).\nHoka Rincon 2 seem to be my preferred shoe these days. They’re light, comfortable, and feel like they improve my running economy more than any other shoe.\n#ilkleyhalf</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>First ever half marathon tomorrow. Aiming for 90mins but the second half is a bit lumpy. We’ll see.\nAlso using this to test marathon fuelling strategy. 3/4 gels: 60g of glucose. A 375ml water bottle with 50g of sugar (1:1 fructose/glucose), and 250mg of sodium citrate. Aiming to offset a ~1.5L sweat rate with drinking 330ml at each of the water stations. (I’ve spent some time thinking about this).\nHoka Rincon 2 seem to be my preferred shoe these days. They’re light, comfortable, and feel like they improve my running economy more than any other shoe.\n#ilkleyhalf</p>\n<img src=\"https://cdn.uploads.micro.blog/31811/2021/72e34da8c8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"content_text": "First ever half marathon tomorrow. Aiming for 90mins but the second half is a bit lumpy. We’ll see. \nAlso using this to test marathon fuelling strategy. 3/4 gels: 60g of glucose. A 375ml water bottle with 50g of sugar (1:1 fructose/glucose), and 250mg of sodium citrate. Aiming to offset a ~1.5L sweat rate with drinking 330ml at each of the water stations. (I’ve spent some time thinking about this). \nHoka Rincon 2 seem to be my preferred shoe these days. They’re light, comfortable, and feel like they improve my running economy more than any other shoe. \n#ilkleyhalf\n\n<img src=\"https://cdn.uploads.micro.blog/31811/2021/72e34da8c8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-10T23:05:43+01:00",
 				"url": "https://grav.social/2021/07/10/first-ever-half.html"
@@ -495,7 +449,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2021/04/15/az-vaccine-applied.html",
 				
-				"content_html": "<p>AZ vaccine applied at 17h. Can you tell when the fever kicked in? Feel exhausted.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>AZ vaccine applied at 17h. Can you tell when the fever kicked in? Feel exhausted.</p>\n<img src=\"https://cdn.uploads.micro.blog/31811/2021/50fb9cda66.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"content_text": "AZ vaccine applied at 17h. Can you tell when the fever kicked in? Feel exhausted.\n\n<img src=\"https://cdn.uploads.micro.blog/31811/2021/50fb9cda66.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-15T07:58:42+01:00",
 				"url": "https://grav.social/2021/04/15/az-vaccine-applied.html"
@@ -503,7 +457,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2021/04/14/todays-workout-was.html",
 				
-				"content_html": "<p>Today’s workout was fuelled with 100g of caster sugar, water, and fresh lemon juice. Turns out it’s a bit sweet 🤮 Next time I’ll reduce the ratio of fructose by adding in some maltodextrin to make things a little more palatable.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Today’s workout was fuelled with 100g of caster sugar, water, and fresh lemon juice. Turns out it’s a bit sweet 🤮 Next time I’ll reduce the ratio of fructose by adding in some maltodextrin to make things a little more palatable.</p>\n<img src=\"https://cdn.uploads.micro.blog/31811/2021/d29db37801.jpg\" width=\"600\" height=\"209\" alt=\"\" />\n",
 				"content_text": "Today’s workout was fuelled with 100g of caster sugar, water, and fresh lemon juice. Turns out it’s a bit sweet 🤮 Next time I’ll reduce the ratio of fructose by adding in some maltodextrin to make things a little more palatable.\n\n<img src=\"https://cdn.uploads.micro.blog/31811/2021/d29db37801.jpg\" width=\"600\" height=\"209\" alt=\"\" />\n",
 				"date_published": "2021-04-14T18:56:43+01:00",
 				"url": "https://grav.social/2021/04/14/todays-workout-was.html"
@@ -535,7 +489,7 @@
 			{
 				"id": "http://paulgrav.micro.blog/2021/01/11/morning-runs-along.html",
 				
-				"content_html": "<p>Morning runs along the Leeds/Liverpool canal.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Morning runs along the Leeds/Liverpool canal.</p>\n<img src=\"https://cdn.uploads.micro.blog/31811/2021/17c900ed39.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"content_text": "Morning runs along the Leeds/Liverpool canal. \n\n<img src=\"https://cdn.uploads.micro.blog/31811/2021/17c900ed39.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-01-11T23:49:58+01:00",
 				"url": "https://grav.social/2021/01/11/morning-runs-along.html"
