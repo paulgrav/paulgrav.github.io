@@ -24,6 +24,106 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://grav.social/2024/11/24/using-ai-to.html">Using AI to design an indoor bike workout</a></h1>
+		
+
+		<a href="https://grav.social/2024/11/24/using-ai-to.html" class="u-url"><time class="dt-published" datetime="2024-11-24 17:22:06 &#43;0000">Nov 24, 2024</time></a>
+
+		<div class="e-content">
+			 <p>Today I planned to do a 2hr indoor workout. The previous day rode in ERG mode for 2 hrs at a fixed power of 181 W. It was pretty boring. To alleviate the boredom, I thought I could do with a workout that had variable levels of intensity and duration. I had a quick look in my workout library in Training Peaks and couldn’t immediately find anything that fit my requirements. Then I wondered whether I could use AI to design a workout for me 🤔</p>
+<p>When I prescribe myself workouts, I use <a href="https://intervals.icu">intervals.icu</a>. Their workout builder works perfectly for my software engineer mind. Conveniently, workouts  are automatically synced to Garmin. There’s no GUI; workout creation is driven by lines of text. This is what a basic 3-step workout might look like:</p>
+<pre tabindex="0"><code>- 10m 50-60%
+- 20m 70%
+- 10m 40-60%
+</code></pre><p>The format is <code>- &lt;duration&gt; &lt;intensity&gt;</code>, duration almost explains itself. Intensity can be a percentage of FTP or zones or ranges thereof e.g., <code>Z1-Z2</code> or <code>60-70%</code></p>
+<p>My next step was to find some AI to create my workout. I use <a href="https://kagi.com">Kagi</a> and it comes with an AI assistant. Perfect. The default AI was Claude 3.5 Sonnet. Not sure how GPT 4o would have fared.</p>
+<p>The first step is to give the AI some basic background info about how to create an Intervals.icu work:</p>
+<pre tabindex="0"><code>You are a workout creator for indoor bike workouts. Bike workouts are specified using bullit points, using time in the format of duration followed by h for hours, m for minutes or s for seconds, the second value is percentage of FTP e.g., - 10m 65-75%.
+</code></pre><p>The AI response was:</p>
+<pre tabindex="0"><code>Claude 3.5 Sonnet
+I'll help you create indoor bike workouts. I understand you want the format to be:
+- Duration (using h/m/s)
+- Intensity (as % of FTP)
+
+Would you like me to create a specific type of workout (endurance, intervals, threshold, etc.) or would you like me to specify the intended duration of the workout? This will help me create a more appropriate training session.
+
+For reference, typical intensity zones for cycling are:
+- Recovery: 45-55% FTP
+- Endurance: 56-75% FTP
+- Tempo: 76-87% FTP
+- Threshold: 88-95% FTP
+- VO2 Max: 96-105% FTP
+- Anaerobic: 106%+ FTP
+
+Please let me know your preferences and I'll create a structured workout accordingly.
+</code></pre><p>Now to tell it what sort of workout I want:</p>
+<pre tabindex="0"><code>I want a 2hr workout at an endurance level. My FTP is 272. Total TSS should be no more than 100. Intervals should be of variable length, and variable intensity.
+</code></pre><p>The response was:</p>
+<pre tabindex="0"><code>Claude 3.5 Sonnet
+I'll create a 2-hour endurance workout with variable intervals while keeping the TSS under 100. Since your FTP is 272W, I'll focus on the endurance zone (56-75% FTP) with some tempo work mixed in to add variety while maintaining the TSS target.
+
+Workout Structure:
+- 10m 55-65% (Warm-up)
+- 15m 65-70%
+- 8m 75%
+- 12m 65%
+- 20m 70-75%
+- 5m 60% (Recovery)
+- 15m 75%
+- 10m 65%
+- 12m 72%
+- 8m 60% (Recovery)
+- 10m 75%
+- 5m 65%
+- 5m 60% (Cool-down)
+
+Total time: 2 hours (120 minutes)
+Primary intensity: Endurance zone (56-75% FTP)
+Power ranges:
+- 55% = 150W
+- 75% = 204W
+
+This workout maintains a predominantly endurance-focused structure with varying intervals to keep engagement while preventing monotony. The intensity changes are gradual to maintain aerobic development, and recovery periods are strategically placed. The TSS should fall between 85-95 depending on how closely you stick to the prescribed power ranges.
+</code></pre><p>That looks pretty good but when I pasted it into intervals.icu I noticed the intensity was slightly higher than I wanted:</p>
+<pre tabindex="0"><code>Can you reduce the overall intensity from 68% to 65%?
+</code></pre><p>The adjusted workout was perfect. Loaded it into <a href="https://intervals.icu">intervals.icu</a>, it sync’d to Garmin and I used my Garmin Edge 840 to control my trainer.</p>
+<pre tabindex="0"><code>Claude 3.5 Sonnet
+I'll adjust the workout to average around 65% FTP instead of 68%, which means working primarily in the 60-70% range with fewer periods at 75%.
+
+Workout Structure:
+- 10m 55-65% (Warm-up)
+- 15m 60-65%
+- 8m 70%
+- 12m 65%
+- 20m 65-70%
+- 5m 60% (Recovery)
+- 15m 70%
+- 10m 65%
+- 12m 65%
+- 8m 60% (Recovery)
+- 10m 70%
+- 5m 65%
+- 5m 60% (Cool-down)
+
+Total time: 2 hours (120 minutes)
+Primary intensity: Lower endurance zone (60-70% FTP)
+Power ranges:
+- 55% = 150W
+- 70% = 190W
+
+This revised version maintains the same structure but reduces the overall intensity by:
+- Lowering the 75% intervals to 70%
+- Reducing some of the 65-70% ranges to 60-65%
+- Keeping recovery intervals the same for adequate rest
+
+The TSS will now be lower, approximately 75-85, making it a more moderate endurance-building session.
+</code></pre><img src="uploads/2024/screenshot-2024-11-24-at-17.18.06.png" width="600" height="402" alt="">
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 			<h1><a href="https://grav.social/2024/09/06/thoughts-on-the.html">Thoughts on the new Reeder app</a></h1>
 		
 
